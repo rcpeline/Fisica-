@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202211030101/reactive_library_fy2021.js?bust=31070723"></script>
-<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script>
-<script src="https://connect.facebook.net/pt_BR/all.js?hash=848d984b32e91f8c843770eccf11d2e1" async="" crossorigin="anonymous"></script>
-<meta charset="UTF-8">
-<title>Ondulatoria</title>
+<link rel="stylesheet" href="css.css">
 </head>
+
 <body>
-<h1>Ondulatoria</h1>
+    <h1>Ondulatória</h1>
+    <header>
+        <a class="b" href="file:///C:/Users/Aluno%20Sesi%20Senai/Downloads/TRABALHO-EQUIPE-main/index ">Reflexão</a>
+            <title>Ondulatoria</title>
+    </header>
+    <main>
+
+   
+
 
 <p> O dia a dia, os fenômenos ondulatórios estão presentes a todo tempo, desde quando acordamos e conseguimos enxergar os objetos por meio da reflexão, difração e refração luminosa, até o momento em que iremos dormir, com a produção de calor do nosso corpo debaixo da coberta.</p>
 
@@ -46,18 +51,6 @@ Frequência da onda: a frequência de uma onda é o número de oscilações real
 Velocidade de propagação da onda: a velocidade de propagação da onda é a velocidade com que uma onda atravessa um meio — por exemplo, a velocidade da luz no vácuo é de aproximadamente 3⋅108 m/s3⋅108 m/s.
 
 
-
+</main>
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
 </html>
