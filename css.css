@@ -1,0 +1,40 @@
+
+
+
+header{
+    background: linear-gradient(rgb(64, 156, 35), Green)
+
+}
+
+
+
+h1{
+font-size: 90px;
+text-align: center;
+color: rgb(0, 0, 0);
+}
+
+h2{
+font-size: 40px;
+text-align: center;
+}
+
+body{
+margin: 3%;
+font-size: 20px;
+text-align: justify;
+background:#80b9f9
+}
+
+.a{
+    
+}
+.b{
+border-radius: var(--elem-radius);
+border-top: none;
+padding: .5rem;
+text-decoration: solid;
+text-decoration: rgb(12, 12, 12);
+text-align: justify;
+font-size: 50px;
+}
