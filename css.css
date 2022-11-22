@@ -1,6 +1,13 @@
 
 
 
+header{
+    background: linear-gradient(rgb(35, 144, 156), rgb(0, 128, 128))
+    
+}
+
+
+
 h1{
 font-size: 100px;
 text-align: center;
