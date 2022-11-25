@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css2.css">
+<meta charset="UTF-8"/>
+<title>Reflexão</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <link rel="stylesheet" href="css.css">
+    </head>
+    
+    <body>
+ <h1>Reflexão</h1>
+ <header>
+    <a class="b" href="file:///C:/Users/Isa/Desktop/Fisica--main/refracao.html">Refração</a>
+    <a class="a" href="file:///C:/Users/Isa/Desktop/Fisica--main/Index.html">Ondulatoria</a>
+        <title>Ondulatoria</title>
+</header>
+<main>
+<p>Quando uma onda se propaga e encontra certo meio, como um obstáculo ou uma superfície que separa duas regiões, esta interage com ele, o que gera alguns comportamentos específicos. Estes são chamados<u>fenômenos ondulatórios.</u> A reflexão acontece quando uma onda atinge uma região que separa dois meios e retorna, se propagando no mesmo meio anterior. Desta forma, não há alteração na velocidade de propagação (que só depende do meio), nem na frequência (que só depende da fonte). Assim, o comprimento de onda da onda incidente é igual ao comprimento de onda da onda refletida.</p>
+<img class="img1x" src="x1.webp" alt="imagem reflexão" title="FIGURA1" />  
+<p>Na reflexão, o ângulo θi formado entre o raio de onda incidente e a direção perpendicular à superfície, chamada de <u>direção normal</u>, é idêntico ao ângulo θr formado pela direção normal e pelo raio refletido. Assim:</p>   
+<img class="img2x" src="x2.webp" alt="IMAGEM ONDAS" title="figura2"  />
+<h2>Reflexão em ondas unidimensionais com extremidade fixa:</h2>
+<p>Quando um pulso (meia-onda) é gerado, faz cada ponto da corda subir e depois voltar a posição original, no entanto, ao atingir uma extremidade fixa, como uma parede, a força aplicada nela, pelo princípio da ação e reação, reage sobre a corda, causando um movimento na direção da aplicação do pulso, com um sentido inverso, gerando um pulso refletido. Assim como mostra a figura abaixo:</p>
+<img class="img3x" src="x3.png" alt="fig3" title="fig3" />
+<p>Para este caso costuma-se dizer que há inversão de fase já que o pulso refletido executa o movimento contrário ao do pulso incidente.</p>
+<h2>Reflexão em ondas unidimensionais com extremidade livre:</h2>
+<p>Considerando uma corda presa por um anel a uma haste idealizada, portanto sem atrito.      Ao atingir o anel, o movimento é continuado, embora não haja deslocamento no sentido do pulso, apenas no sentido perpendicular a este. Então o pulso é refletido em direção da aplicação, mas com sentido inverso. Como mostra a figura:</p>
+<img class="img4x" src="x4.png" alt="fig4" title="fig4" />
+<p>Para estes casos não há inversão de fase, já que o pulso refletido executa o mesmo movimento do pulso incidente, apenas com sentido contrário.      É possível obter-se a extremidade livre, amarrando-se a corda a um barbante muito leve, flexível e inextensível.       O eco é um exemplo de reflexões da onda sonora, acontece quando os sons direto e refletido são recebidos num intervalo de tempo maior que 0,1 segundo possibilitando então percepção distinta dos sons. Para ouvir o eco da própria voz é necessário estar distante no mínimo 17 metros do objeto que irá refletir esse eco.       Outros exemplos é a reflexão de ondas em lagos, quando se joga algo dentro da água, ocorre uma perturbação que gera as ondas. Estas, por sua vez, se propagam na superfície da água até encontrarem um obstáculo onde possam se refletir. As miragens imagem distorcida de um objeto localizado no horizonte causado pela reflexão da luz.</p>
+    
+    
+    </main>
+    </body>
+    </html>
+    
+ 
