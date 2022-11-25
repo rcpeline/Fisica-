@@ -39,9 +39,19 @@ font-size: 50px;
 color: rgb(0, 0, 0);
 text-align: center;
 }
-.img1 {
-height: 500px;
-margin-left: 15%;
-
-
+.img1c {
+height: 300px;
+margin-left: 22%;
+}
+.img2c {
+height: 400px;
+margin-left: 34%;
+}
+.img3c {
+height: 300px;
+margin-left: 20%;
+}
+.img4c {
+height: 300px;
+margin-left: 20%;
 }
